@@ -1,30 +1,36 @@
-# Hi, I'm Caio 👋
+Hi, I'm Caio 👋
 
-I'm a Software Development student focused on building a strong foundation in programming, systems, and problem solving.
+Software Development student focused on Backend Development and building strong programming fundamentals.
 
-I’m currently in my third semester of a Computer Networks degree, where I study computer networks, systems, and how software communicates and scales. Alongside my academic studies, I continuously study programming through online courses and hands-on projects to strengthen my software development skills.
+Currently in the 3rd semester of a Computer Networks degree, studying computer systems, networks, and software infrastructure. Alongside my academic studies, I actively develop projects using JavaScript and Node.js to strengthen real-world development skills.
 
-In August, I’ll be starting the Software Development program at New Brunswick Community College (NBCC) in Canada 🇨🇦, continuing my academic and professional journey in software development with an international focus.
+Starting in August 2026, I will begin the Software Development program at New Brunswick Community College (NBCC), continuing my journey in software development with an international focus 🇨🇦
 
-## 🧠 Areas of Focus
-- Programming logic and problem solving
-- Software development fundamentals
-- Application design and system concepts
-- Computer networks and systems
-- Git & GitHub version control
+💻 Technical Skills
 
-## 🧩 Projects
-This GitHub contains projects related to my learning journey, including:
-- Programming fundamentals and logic-based applications
-- Study projects focused on core development concepts
-- Continuous improvements as my skills evolve
+• JavaScript (ES6+)
+• Node.js
+• Backend Development Fundamentals
+• Command Line Tools (CLI)
+• JSON and File Processing
+• Asynchronous JavaScript (Callbacks & Promises)
+• Git & GitHub
 
-## 🎯 Goals
-- Become a well-rounded software developer
-- Build reliable and maintainable applications
-- Work with modern technologies and best practices
-- Collaborate with international and remote teams
+🧩 Projects
 
+This GitHub contains projects focused on practical learning, including:
+
+• Node.js command line applications
+• Text processing tools
+• Programming fundamentals
+• Backend learning projects
+
+🎯 Goals
+
+• Become a professional Software Developer
+• Build clean and maintainable applications
+• Work with modern technologies
+• Gain international development experience
 ## 🌍 Languages
 - Portuguese: Native
 - English: Fluent
