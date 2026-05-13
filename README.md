@@ -1,8 +1,8 @@
 Hi, I'm Caio 👋
 
-Software Development student focused on Backend Development and building strong programming fundamentals.
+Software Development student focused on Backend Development, Test Automation, and building strong programming fundamentals.
 
-Currently in the 3rd semester of a Computer Networks degree, studying computer systems, networks, and software infrastructure. Alongside my academic studies, I actively develop projects using JavaScript and Node.js to strengthen real-world development skills.
+Currently in the 3rd semester of a Computer Networks degree, studying computer systems, networks, and software infrastructure. Alongside my academic studies, I actively develop projects using JavaScript, Node.js, and Cypress to strengthen real-world software development and testing skills.
 
 Starting in August 2026, I will begin the Software Development program at New Brunswick Community College (NBCC), continuing my journey in software development with an international focus 🇨🇦
 
@@ -10,32 +10,37 @@ Starting in August 2026, I will begin the Software Development program at New Br
 
 • JavaScript (ES6+)
 • Node.js
+• Cypress (E2E & API Testing)
 • Backend Development Fundamentals
+• REST APIs
+• Asynchronous JavaScript (Callbacks, Promises & Async/Await)
+• Git & GitHub
 • Command Line Tools (CLI)
 • JSON and File Processing
-• Asynchronous JavaScript (Callbacks & Promises)
-• Git & GitHub
 
 🧩 Projects
 
-This GitHub contains projects focused on practical learning, including:
+This GitHub contains practical projects focused on:
 
-• Node.js command line applications
-• Text processing tools
+• Backend development with Node.js
+• API and automation testing with Cypress
+• Command line applications
 • Programming fundamentals
-• Backend learning projects
+• Software testing and automation practices
 
 🎯 Goals
 
-• Become a professional Software Developer
-• Build clean and maintainable applications
-• Work with modern technologies
+• Become a professional Software Developer / QA Automation Engineer
+• Build scalable and maintainable applications
+• Work with modern technologies and testing practices
 • Gain international development experience
-## 🌍 Languages
-- Portuguese: Native
-- English: Fluent
-- French: Learning
-- Spanish: Basic
+
+🌍 Languages
+
+Portuguese: Native
+English: Fluent
+French: Learning
+Spanish: Basic
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/caio-de-freitas-9a9b25384
